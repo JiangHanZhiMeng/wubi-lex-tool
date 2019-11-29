@@ -16,7 +16,7 @@ titleBar={cls="bkplus";left=0;top=0;right=1044;bottom=41;bgcolor=14977280;dl=1;d
 import win.ui.simpleWindow;
 win.ui.simpleWindow( mainForm );
 
-import win.ui.tabs;
+import win.ui.tabs;//选项卡
 var tbs = win.ui.tabs( 
 	mainForm.nav1,
 	mainForm.nav2,
